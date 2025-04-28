@@ -4,3 +4,11 @@ I’m currently exploring opportunities in Data Analytics and Data Engineering, 
 
 I enjoy uncovering hidden patterns in data and building efficient pipelines that power better decisions.
 Always curious, always learning, and excited to grow in the world of data!
+
+🛠️ Skills and Tools
+
+Here are some of the technologies I work with:
+
+Programming Languages:
+
+Data Visualization:
